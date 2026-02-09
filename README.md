@@ -1,14 +1,2 @@
-# RDice
-Rust Dice command for terminal.
-
-Dependency ;
-
-cargo
-
-rust
-
-To compile it you can clone the repo and use ;
-
-``makepkg -si``
-
-Have fun rolling the dice.
+it is the test of my rdice repo 
+it allowed me to create a repo where the .git isnt 230 mb
